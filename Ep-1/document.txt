@@ -1,0 +1,6 @@
+// we cover four essential skills for any HTML5 canvas piece:
+
+1. Creating and Resizing Your Canvas
+2. Drawing Elements
+3. Animating Elements
+4. Interacting with Elements
